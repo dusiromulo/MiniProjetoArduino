@@ -1,1 +1,1 @@
-Sensor para controle de estufas - Humidade, Temperatura e PH
+Sensor para controle de estufas - Umidade, Temperatura e PH
